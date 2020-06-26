@@ -1,1 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Dies ist eine Webseite ueber meinen Lieblingsfilmcharakter Quark (DS9)
