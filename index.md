@@ -9,3 +9,5 @@ Quark ist eine fiktive Figur in der amerikanischen Fernsehserie Star Trek: Deep 
 Wie Quark sagte:
 > Hier regnet es ja noch mehr als auf Ferenginar.
 >  Und auf Ferenginar gibt es immerhin 238 verschiedene Wörter für Regen.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/4/42/QuarkDS9.jpg"/>
