@@ -1,1 +1,2 @@
 # Dies ist eine Webseite ueber meinen Lieblingsfilmcharakter Quark (DS9)
+Quark ist eine fiktive Figur in der amerikanischen Fernsehserie Star Trek: Deep Space Nine. Die Figur, die von Armin Shimerman gespielt wurde, wurde als Mitglied einer außerirdischen außerirdischen Rasse namens Ferengi dargestellt, die stereotyp kapitalistisch und nur durch Profit motiviert sind.
